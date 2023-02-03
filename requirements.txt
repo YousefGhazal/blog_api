@@ -1,0 +1,8 @@
+django
+djangorestframework
+django-autoslug
+django-ckeditor
+django-environ
+psycopg2
+drf-yasg
+djangorestframework-simplejwt
